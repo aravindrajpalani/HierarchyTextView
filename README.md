@@ -10,4 +10,5 @@ How to use
             app:spanDrawable="@drawable/ic_arrow"
             android:entries="@array/my_array_of_strings"/>
  ```
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+ 
+![HierarchyImageView](https://raw.githubusercontent.com/aravindrajpalani/HierarchyTextView/master/HierarchyTextView.png)
